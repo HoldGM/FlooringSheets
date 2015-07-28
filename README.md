@@ -8,6 +8,11 @@ location for use.
 LowesWTE-Blank: Individual What to Expect sheets to be printed and left with customers.
 LowesWTE-SIG: 	Combined What to Expect sheets to be signed by customer and archived.
 				Lead Assessment Sheets, to be filled out and signed by customer and archived.
+				The labeling of each set indicates the WHat to Expect sheet in that set.
+				C = Carpet
+				T = Ceramic/Stone Tile
+				V = Vinyl
+				W = Wood/Laminate
 				
 Signed What to Expect Sheets:
 				The last page of each combination set includes a Lowe's Questionnaire sheet.
